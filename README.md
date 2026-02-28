@@ -36,7 +36,11 @@ The browser executed JavaScript and displayed a popup alert box with value "1".
 This confirms that user input is reflected without proper sanitization.
 
 ---
+## 📸 Screenshots
 
+![XSS Execution](screenshots/xss-alert.png)
+
+---
 ## ⚠️ Impact
 
 An attacker could potentially:
