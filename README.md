@@ -37,8 +37,8 @@ This confirms that user input is reflected without proper sanitization.
 
 ---
 ## 📸 Screenshots
-
-![XSS Execution](screenshots/xss-alert.png)
+Screenshot_2026-02-27_19_11_33.png
+Screenshot_2026-02-27_19_11_52.png
 
 ---
 ## ⚠️ Impact
