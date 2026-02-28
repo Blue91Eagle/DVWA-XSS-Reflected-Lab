@@ -38,8 +38,9 @@ This confirms that user input is reflected without proper sanitization.
 ---
 ## 📸 Screenshots
 
-![XSS Input](screenshots/xss-input.png)
-![XSS Alert](screenshots/xss-alert.png) 
+![XSS Input](xss-input.png)
+
+![XSS Alert](xss-alert.png) 
 ---
 ## ⚠️ Impact
 
